@@ -4,17 +4,27 @@ Netid:
 
 Webpage 1:
 
-- [URL]
-- [WRITE_UP]
+- http://www.melville-design.com/
+
+- This website caught my eye with its slick starting animations. Normally starting/intro animations are cliche/unappealing for websites but this one made it work, with the content appearing quickly as you scroll down the page. Images were not laid out on a grid system but rather overlapped, in a way that was tasteful and displayed relationships between media. This design was used in almost every element of the site, from links to mouse over, to images, to the menu bar. The nonstandard layout also allowed for much more space and separation between sections, which is aesthetically pleasing and much easier to read. Elements did not scroll at the same rate either, creating an interesting floating effect. I did not love how the scrolling felt, but it looked very interesting.
+
 
 
 Webpage 2:
 
-- [URL]
-- [WRITE_UP]
+- https://chilid.com/history/
+
+- The typography of this site is what I’m particularly interested in. The main heading font is very striking and used in each section. It is very prominently displayed as the heading in each section, generally with only a one or two word phrase which is split in half and used as labels for the top half and bottom half of the section. I really like the top of the page the best with a full screen display with mainly just text of different colors for emphasis. Again, something I did not enjoy with this site was the scrolljacking. Though the site looked very pretty, scrolling through it was a pain since it forced me to stop at every single section.
+
 
 
 Webpage 3:
 
-- [URL]
-- [WRITE_UP]
+- http://www.firewatchgame.com/
+
+- This is a website for a video game, and what caught my eye was the very top of the site. The site heavily employs parallax scrolling in a way I haven't seen before - it makes many 2d layers move at different rates, giving a 3-dimensional effect to the scroll, and it feels like you are descending into a dark forest. The art is beautiful and is built specifically for this interesting 3d movement. It also is centered around a point where the logo sits, highlighting it without being annoying or obvious. By keeping the images large and content centered, it scales responsively very well to screen size.
+
+
+
+
+

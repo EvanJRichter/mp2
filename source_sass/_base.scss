@@ -1,20 +1,99 @@
-// Add any custom Sass & CSS here
+/*Add any custom Sass & CSS here*/
+@import url('http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/motion-ui/1.1.1/motion-ui.min.css');
 
 body{
 	@include breakpoint(medium down){
-		border: 5px black solid;
+		/*border: 5px black solid;*/
 	}
+    transition: 0.2s;
+	font-size: 1.0rem;
+	font-family: $font-primary !important;
 }
 
-.llama {
-  background: url('../media/llama.jpg') no-repeat center center fixed;
-}
-
-.text-center {
+.text-pad {
   padding: 30px;
+}
 
-  img {
-    border: 1px solid black;
-    max-height: 200px;
-  }
+section {
+	height: 100vh;
+	border-style: solid;
+    border-width: 1px;
+}
+#id1{
+	overflow-y: auto;
+}
+.top-bar {
+	background-color: #fff;
+}
+
+.navbar {
+	background-color: white;
+    transition: 0.2s;
+    color: black;
+    width: 100%;
+}
+
+.barShrink {
+	background-color: #fff;
+	font-size: 0.85rem;
+}
+
+.row {
+	background-color: white;
+}
+.active {
+	background-color: rgba(0, 0, 0, .5);
+	color: white;
+}
+.fixed-bg {
+    background-image: url("../media/clouds.jpg");
+    min-height: $section-height;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.text-center{
+	text-align: center;
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.text-center-horizontal{
+	text-align: center;
+}
+
+.vertical-center-div{
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+#modal{
+	height: 50vh;
+}
+
+.resume{
+	width: inherit;
+	height: inherit;
+}
+
+
+/*Video Stuff*/
+.videoplayer {
+	width: 100vw;
+	height: auto;
+}
+
+.black-bg {
+	background-color: black;
+}
+.white-text {
+	color: white;
 }

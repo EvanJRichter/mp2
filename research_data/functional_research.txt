@@ -4,17 +4,22 @@ Netid:
 
 Webpage 1:
 
-- [URL]
-- [WRITE_UP]
+- http://www.loisjeans.com/en/aw2016/campaign
+
+- For this site, I enjoyed an optional interactive part of the site that told users to hold down a button on their keyboard. This ‘loaded’ a small video that would play and would ‘unlock’ the next portion of the site. I put quotes around ‘loaded’ because it was probably pre-loaded, but the effect was that when you held the button the video would lose its extreme coloration and become a regular full screen video, which when it was fully loaded would allow you to click and move onto the rest of the site. I thought it was a very interesting way to denote different parts of the site and allow for a satisfying interaction.
+
 
 
 Webpage 2:
 
-- [URL]
-- [WRITE_UP]
+- http://ville.valdor.qc.ca/
+
+- This site has a small widget I found very interesting. It’s a calendar widget on the front page that floats along the page with the rest of the content, but allows you to click on arrows moving to the next event and updating the date as well. You can click to view the full calendar which has multiple ways to explore the events, with a traditional calendar with clickable dates and a vertical timeline as well. The traditional calendar collapses when the screen gets smaller, allowing the vertical timeline to take over. I thought it was a very interesting way to explore events and made a lot of practical sense.
+
 
 
 Webpage 3:
 
-- [URL]
-- [WRITE_UP]
+- http://www.thelondonspace.com/
+
+- This site is a pictographic “map” of london, taking various images and placing them on a grid, meant to represent the geography of london, where the picture was taken. A few functional elements stood out to me. One was closing modals - normally you click an X or click outside of the modal, which was true in this case. But in this case, there was no X button. Instead, your mouse turned into an X, which normally I would find annoying, but it made a lot of intuitive sense in this context. Another functionality I enjoyed was the ability to sort by context, which allowed you to explore by feel rather than objective keywords.
